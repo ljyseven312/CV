@@ -1,7 +1,5 @@
 ---
 permalink: /
-title: "Academic Page for Dr. Jiayi Liu"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
